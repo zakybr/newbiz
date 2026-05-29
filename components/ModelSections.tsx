@@ -29,7 +29,7 @@ const slideFromLeft: Variants = {
 };
 
 const marketNowItems = [
-  "$3–10k/month retainers",
+  "$3-10k/month retainers",
   "Output-based, cookie-cut",
   "Risk sits with the brand",
   "No business case for the spend",
@@ -38,7 +38,7 @@ const marketNowItems = [
 const weOfferItems = [
   "A defined outcome, agreed before we start",
   "Measurable, outcome-based",
-  "Guaranteed result — or we keep working at our cost",
+  "Guaranteed result, or we keep working at our cost",
   "Risk absorbed by the agency",
 ];
 
@@ -50,17 +50,17 @@ const sprintPhases = [
       "Qualify or walk. Audit tracking, reviews, decision-maker authority.",
   },
   {
-    week: "Weeks 1–2",
+    week: "Weeks 1-2",
     title: "Discovery & Baseline",
     description: "Lock the metric. Verify tracking. Deliver brief.",
   },
   {
-    week: "Weeks 3–5",
+    week: "Weeks 3-5",
     title: "Production",
     description: "UGC creators briefed and filmed. Three revision rounds max.",
   },
   {
-    week: "Weeks 6–8",
+    week: "Weeks 6-8",
     title: "Deploy & Measure",
     description:
       "Ads live from creator handles. Weekly reporting against guaranteed metric.",

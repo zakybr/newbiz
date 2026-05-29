@@ -3,7 +3,7 @@ import PageTransition from "@/components/PageTransition";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Apply — Hurdler",
+  title: "Apply | Hurdler",
 };
 
 export default function Apply() {

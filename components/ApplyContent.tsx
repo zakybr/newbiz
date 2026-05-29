@@ -22,10 +22,10 @@ const fadeUp: Variants = {
 const fieldClassName =
   "w-full rounded-xl border border-white/20 bg-white/10 px-5 py-4 font-body text-[15px] font-normal text-white placeholder:text-white/40 transition-[border-color] duration-200 ease-in-out focus:border-white/60 focus:outline-none";
 
-const adSpendOptions = ["<$10k", "$10–30k", "$30–100k", ">$100k"];
+const adSpendOptions = ["<$10k", "$10-30k", "$30-100k", ">$100k"];
 
 const trackingOptions = [
-  "Yes — fully set up",
+  "Yes, fully set up",
   "Partially",
   "No",
 ];

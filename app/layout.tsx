@@ -19,7 +19,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: {
     default: "Hurdler",
-    template: "%s — Hurdler",
+    template: "%s | Hurdler",
   },
   description: "Outcome-contracted content. Risk absorbed by us.",
 };

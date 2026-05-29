@@ -5,7 +5,7 @@ import SprintTimeline from "@/components/SprintTimeline";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Hurdler — Outcome-Contracted Content",
+  title: "Hurdler | Outcome-Contracted Content",
 };
 
 export default function Home() {

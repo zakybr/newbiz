@@ -12,19 +12,19 @@ const sprintPhases = [
     progress: 10,
   },
   {
-    week: "WEEKS 1–2",
+    week: "WEEKS 1-2",
     title: "Discovery & Baseline",
     description: "Lock the metric. Verify tracking. Deliver brief.",
     progress: 30,
   },
   {
-    week: "WEEKS 3–5",
+    week: "WEEKS 3-5",
     title: "Production",
     description: "UGC creators briefed and filmed. Three revision rounds max.",
     progress: 60,
   },
   {
-    week: "WEEKS 6–8",
+    week: "WEEKS 6-8",
     title: "Deploy & Measure",
     description:
       "Ads live from creator handles. Weekly reporting against guaranteed metric.",

@@ -18,7 +18,7 @@ export default function QuoteCard({ delay = 0 }: QuoteCardProps) {
         are supposed to produce.
       </blockquote>
       <p className="mt-6 font-body text-[12px] text-near-black/40">
-        — The Hurdler model
+        The Hurdler model
       </p>
     </BentoCard>
   );

@@ -14,7 +14,7 @@ export default function SprintStatsCard({ delay = 0 }: SprintStatsCardProps) {
         SPRINT
       </p>
       <p className="mt-4 font-display text-[60px] font-bold leading-none text-green">
-        $12–18K
+        $12-18K
       </p>
       <p className="mt-3 font-body text-[13px] font-light text-near-black/50">
         Fixed fee. 8 weeks.

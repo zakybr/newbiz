@@ -9,7 +9,7 @@ const headlineLines = [
 ];
 
 const tickerText =
-  "SPRINT · $12–18K FIXED · 8 WEEKS · OUTCOME CONTRACTED · RISK ON US · SPRINT ·";
+  "SPRINT · $12-18K FIXED · 8 WEEKS · OUTCOME CONTRACTED · RISK ON US · SPRINT ·";
 
 export default function Hero() {
   const currentYear = new Date().getFullYear();
@@ -52,7 +52,7 @@ export default function Hero() {
         className="mt-10 flex flex-col items-start justify-between gap-8 md:flex-row md:items-end"
       >
         <p className="max-w-[360px] font-body text-[15px] font-light leading-[1.6] text-white/[0.65]">
-          Everyone sells content. We sell what it&apos;s supposed to produce —
+          Everyone sells content. We sell what it&apos;s supposed to produce,
           then put our fee on the line.
         </p>
 

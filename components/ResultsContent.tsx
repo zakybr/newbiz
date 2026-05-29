@@ -21,7 +21,7 @@ const fadeUp: Variants = {
 const placeholderCases = [
   {
     tag: "Attention Guarantee",
-    title: "Sprint 01 — [Client Name]",
+    title: "Sprint 01, [Client Name]",
     guarantee: "[Defined metric agreed]",
     result: "[Measured outcome]",
     method: "[What was made and deployed]",
@@ -29,7 +29,7 @@ const placeholderCases = [
   },
   {
     tag: "Pipeline Guarantee",
-    title: "Sprint 02 — [Client Name]",
+    title: "Sprint 02, [Client Name]",
     guarantee: "[Defined metric agreed]",
     result: "[Measured outcome]",
     method: "[What was made and deployed]",
