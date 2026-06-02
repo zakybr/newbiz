@@ -12,7 +12,7 @@ import {
 } from "framer-motion";
 
 const navLinks = [
-  { href: "/", label: "The Model" },
+  { href: "/model", label: "The Model" },
   { href: "/who-we-work-with", label: "Who We Work With" },
   { href: "/results", label: "Results" },
 ];
